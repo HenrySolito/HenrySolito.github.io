@@ -1,0 +1,27 @@
+.PaddCont{
+    background-color:azure;
+    padding: 70px;
+}
+
+.imgGit{
+    height: 40px;
+    width: 40px;
+}
+.PaddInt{
+    padding: 35px;
+}
+
+.bgIMg{
+   background-image: url("https://img.freepik.com/vector-gratis/fondo-blanco-hexagono-tecnologia-azul_1017-19366.jpg?w=826&t=st=1669401537~exp=1669402137~hmac=4c8666c152f5371aec96c6704a2fd1e51037850e432b38eb2def774a54ebf6fd");
+}
+
+.paddtxt{
+    padding-bottom: 10px;
+    color: rgba(29, 29, 255, 0.575);
+}
+
+.ImgPort
+{
+    
+    background-image: url(https://img.freepik.com/free-vector/5g-networking-technology-background-with-blue-digital-line_53876-119505.jpg?w=900&t=st=1669410088~exp=1669410688~hmac=3e975a5cb3ad7e209769b7eb6eb70b7703a1ae8cc1c7574486c0892de3e9218b);
+}
